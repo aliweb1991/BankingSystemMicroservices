@@ -1,0 +1,2 @@
+# BankingSystemMicroservices
+RabbitMQ asp Core
